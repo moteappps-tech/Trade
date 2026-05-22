@@ -1,0 +1,6 @@
+{
+  "name": "TradingView Clone",
+  "description": "A fully functional demo educational trading app with charts, indicators, and watchlist",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
